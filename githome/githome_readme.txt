@@ -44,4 +44,17 @@ Warning: Permanently added the RSA host key for IP address '192.30.252.131' to t
 Branch master set up to track remote branch master from origin.
 Everything up-to-date
 
+C:\Users\kangj>ping -a -4 192.30.252.131
+
+Pinging github.com [192.30.252.131] with 32 bytes of data:
+Reply from 192.30.252.131: bytes=32 time=204ms TTL=51
+Reply from 192.30.252.131: bytes=32 time=205ms TTL=51
+Reply from 192.30.252.131: bytes=32 time=205ms TTL=51
+Reply from 192.30.252.131: bytes=32 time=206ms TTL=51
+
+Ping statistics for 192.30.252.131:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 204ms, Maximum = 206ms, Average = 205ms
+
 
