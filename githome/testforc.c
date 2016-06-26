@@ -13,6 +13,9 @@ if var1 = 2 {
     var1=var1+3;
 }
 
+if var1 = 3 {
+    var1=var1+4;
+}
 printf("var1=%d", var1);
 
 //add comment
